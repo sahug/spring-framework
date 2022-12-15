@@ -22,6 +22,7 @@ public class ProjectConfig {
     * */
 
     /* You can use name or value to name a bean and fetch it using this name */
+    @Bean
     VehiclePOJO vehiclePojo() {
         var veh = new VehiclePOJO();
         veh.setName("Audi 8");
