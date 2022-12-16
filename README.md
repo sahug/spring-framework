@@ -1,4 +1,4 @@
-# spring-framework
+# Spring Framework
 
 |Project|Notes|
 |--|--|
